@@ -1,5 +1,5 @@
 
-#### Mojtaba Aprouz - 40030594
+#### Mojtaba Aprouz
 
 
 from email.mime import image
